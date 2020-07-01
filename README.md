@@ -5,6 +5,7 @@ This repository is the only place on the internet you will ever need for any ref
 
 ## Additional Websites to Also Check Out
 I would highly recommend checking these websites out if you want to gain more knowledge on the topic of deep learning.
+- https://jakevdp.github.io/PythonDataScienceHandbook/
 - http://www.kareemalkaseer.com/books/ml/word-of-intro
 - https://www.inferentialthinking.com/chapters/intro
 - https://mathematical-tours.github.io/book-basics/
