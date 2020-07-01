@@ -1,4 +1,4 @@
-# Data Science Books
+# Data Science Books and Research Papers
 
 ## Introduction
 This repository contains close to 50 different data science and mathematics books, which may be of immense help to you.
